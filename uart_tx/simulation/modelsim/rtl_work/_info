@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/simulation/modelsim
+vtb
+!s110 1763122465
+!i10b 1
+!s100 E0IfiEI7f39:NeWLg:c=O1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFM;c7VTXeKPC0JdjB0X2F3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1763117411
+8C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/.test/tb.v
+FC:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/.test/tb.v
+!i122 1
+L0 3 133
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1763122465.000000
+!s107 C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/.test|C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/.test/tb.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/.test
+Z5 tCvgOpt 0
+vuart_tx
+!s110 1763122464
+!i10b 1
+!s100 H>5NK;NMm`;<M;kMfQ;3F1
+R1
+IbFZ?e3E0gml@G:iSaIhF41
+R2
+R0
+w1763122449
+8C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/code/uart_tx.v
+FC:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/code/uart_tx.v
+!i122 0
+L0 32 107
+R3
+r1
+!s85 0
+31
+!s108 1763122464.000000
+!s107 C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/code/uart_tx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/code|C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/code/uart_tx.v|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/bhavi/t2b_uart/mb_2450_task2b/t2b_uart/uart_tx/code
+R5
